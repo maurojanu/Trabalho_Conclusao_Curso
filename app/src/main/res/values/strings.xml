@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InfoCon Concursos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Tela fragment</string>
+    <string name="conc_onde_estou_fragment">Onde Estou fragment</string>
+    <string name="todos_conc_fragment">Todos concursos fragment</string>
+    <string name="conc_estado_fragment">Concursos por estado fragment</string>
+    <string name="conc_regiao_fragment">Concursos por região fragment</string>
+    <string name="minhas_visua_fragment">Minhas visualizaçoes fragment</string>
+    <string name="arquivo_fragment">Arquivos fragment</string>
+    <string name="configuracao_fragment">Configurações fragment</string>
+
+</resources>
